@@ -1,0 +1,23 @@
+{
+  "name": "hackerrank-test-case-generator",
+  "version": "1.0.0",
+  "description": "Generate hackerrrank Test Cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawan459/hackerrank-test-case-generator.git"
+  },
+  "author": "Pawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pawan459/hackerrank-test-case-generator/issues"
+  },
+  "homepage": "https://github.com/pawan459/hackerrank-test-case-generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
